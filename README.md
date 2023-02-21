@@ -1,6 +1,8 @@
 # A very basic "Knight Rider" for TangNano 9k
 
-This is a hello world program for TangNano 9k board.
+This is a hello world program for TangNano 9k board:
+
+![knight rider](output.gif)
 
 It is somewhat inspired by:
 
