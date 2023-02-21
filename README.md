@@ -8,6 +8,7 @@ It is somewhat inspired by:
 
 - https://github.com/SpacePirate/KnightRider
 - https://zipcpu.com/blog/2017/05/20/knight-rider.html
+- https://github.com/sipeed/TangNano-9K-example
 
 ## Pre-requisites
 
