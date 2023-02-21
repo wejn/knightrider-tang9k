@@ -18,7 +18,7 @@ Note: Just the IDE. For "programming" I use openFPGALoader.
 
 ## Compiling / flashing
 
-1. Adjust Makefile
+1. Adjust paths to `gw_sh` and `openFPGALoader` in `Makefile`
 1. `make`
 
 If you're happy with it `make permaflash` to burn it to flash (instead of sdram).
